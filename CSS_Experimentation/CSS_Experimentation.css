@@ -1,0 +1,27 @@
+.aa{
+    background-color:grey;
+  }
+  
+  img {
+    width:100%;
+  }
+  
+  .hp-news-category{
+    color:white;
+    font-size:40px;
+  }
+  
+  .hp-news-title{
+    color:#B4F8C8
+  }
+  
+  .hp-news-author{
+    color: #FFAEBC;
+  }
+  
+  .hp-news-date{
+    font-family: 'Varela', sans-serif;
+  }
+  .body{
+    background-color:grey;
+  }
